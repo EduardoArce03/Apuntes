@@ -1,0 +1,10 @@
+APUNTES IA
+
+1. Seleccion de variables ¿Que tecnicas adicionales hay?
+
+2. Reduccion de variables
+
+3. Ingenieria/Construccion de variables
+
+DATASET:
+VAMOS A EMPEZAR CON EL 100K
