@@ -7,4 +7,5 @@ APUNTES IA
 3. Ingenieria/Construccion de variables
 
 DATASET:
-VAMOS A EMPEZAR CON EL 100K
+VAMOS A EMPEZAR CON EL 100K - Se cambio al 32M xd
+
