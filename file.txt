@@ -21,3 +21,16 @@ INVESTIGAR QUE TECNICAS HAY EN CONSTRUCCION DE VARIABLES.
 1. CHATGPT
 2. SCOPUS
 
+cold-start: no se tiene elementos iniciales, en esos casos se usa knn
+
+SELECCION DE VARIABLES: Preferencias del usuario pa nosotros son los votos
+    Permutacion: Vamos sacando subconjuntos combinando variables y vemos rendimiento
+    Arboles de desicion
+
+REDUCCION DE DIMENSIONALIDAD:
+    La que mejor ha funcado es la vectorizacion nisk
+
+DEBER 27
+
+- PRIMERA TABLA AGREGAR/EXTENDER BLOQUES DE TECNICAS QUE CONSIDERE QUE FALTA, DESCRIBIR PARA QUE SE ENTIENDA
+- PROPONER LA TABLA 2 CON 3 PROPUESTAS CON LO QUE YO CREO QUE ME LLAMA LAS ATENCION LO QUE YO QUIERO ASER
